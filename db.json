@@ -1,5 +1,5 @@
 {
-  products: [
+  "products": [
     {"id":1,"name":"Fox, arctic","category":"Teal"},
     {"id":2,"name":"Possum, pygmy","category":"Red"},
     {"id":3,"name":"Swan, black","category":"Aquamarine"},
