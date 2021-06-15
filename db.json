@@ -1,0 +1,24 @@
+{
+  products: [
+    {"id":1,"name":"Fox, arctic","category":"Teal"},
+    {"id":2,"name":"Possum, pygmy","category":"Red"},
+    {"id":3,"name":"Swan, black","category":"Aquamarine"},
+    {"id":4,"name":"Fox, blue","category":"Teal"},
+    {"id":5,"name":"Dama wallaby","category":"Mauv"},
+    {"id":6,"name":"Wild water buffalo","category":"Crimson"},
+    {"id":7,"name":"Arctic lemming","category":"Orange"},
+    {"id":8,"name":"Cape wild cat","category":"Turquoise"},
+    {"id":9,"name":"Goose, snow","category":"Indigo"},
+    {"id":10,"name":"Brush-tailed phascogale","category":"Aquamarine"},
+    {"id":11,"name":"Duck, blue","category":"Khaki"},
+    {"id":12,"name":"White-throated robin","category":"Aquamarine"},
+    {"id":13,"name":"Pronghorn","category":"Blue"},
+    {"id":14,"name":"Marine iguana","category":"Teal"},
+    {"id":15,"name":"Bahama pintail","category":"Aquamarine"},
+    {"id":16,"name":"Baboon, chacma","category":"Maroon"},
+    {"id":17,"name":"Cat, civet","category":"Maroon"},
+    {"id":18,"name":"Prairie falcon","category":"Orange"},
+    {"id":19,"name":"Red-tailed phascogale","category":"Fuscia"},
+    {"id":20,"name":"Eagle, bald","category":"Maroon"}
+  ]
+}
