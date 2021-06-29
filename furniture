@@ -1,0 +1,86 @@
+{
+  "product": 
+  [
+    {
+      "nama": "Stim",
+      "id": 1,
+      "harga": "451",
+      "warna": "Maroon",
+      "material": "Plastic",
+      "deskripsi": "Screening-poliomyelitis",
+      "quality": 1
+    }, {
+      "nama": "Y-Solowarm",
+      "id": 2,
+      "harga": "565",
+      "warna": "Green",
+      "material": "Steel",
+      "deskripsi": "Noninfect lymph dis NOS",
+      "quality": 2
+    }, {
+      "nama": "Subin",
+      "id": 3,
+      "harga": "2",
+      "warna": "Maroon",
+      "material": "Aluminum",
+      "deskripsi": "Insect bite hip/leg-inf",
+      "quality": 3
+    }, {
+      "nama": "Span",
+      "id": 4,
+      "harga": "1",
+      "warna": "Maroon",
+      "material": "Aluminum",
+      "deskripsi": "Infect nipple-postpartum",
+      "quality": 4
+    }, {
+      "nama": "Sub-Ex",
+      "id": 5,
+      "harga": "1908",
+      "warna": "Teal",
+      "material": "Plexiglass",
+      "deskripsi": "Health exam-group survey",
+      "quality": 5
+    }, {
+      "nama": "Subin",
+      "id": 6,
+      "harga": "0786",
+      "warna": "Crimson",
+      "material": "Wood",
+      "deskripsi": "Urogenital trichomon NEC",
+      "quality": 6
+    }, {
+      "nama": "Zaam-Dox",
+      "id": 7,
+      "harga": "50891",
+      "warna": "Turquoise",
+      "material": "Stone",
+      "deskripsi": "Dysphagia, oropharyngeal",
+      "quality": 7
+    }, {
+      "nama": "Ventosanzap",
+      "id": 8,
+      "harga": "754",
+      "warna": "Yellow",
+      "material": "Steel",
+      "deskripsi": "Ankylosis malleus",
+      "quality": 8
+    }, {
+      "nama": "Tresom",
+      "id": 9,
+      "harga": "3240",
+      "warna": "Maroon",
+      "material": "Glass",
+      "deskripsi": "Fx corpus cavrnosm penis",
+      "quality": 9
+    }, {
+      "nama": "Voyatouch",
+      "id": 10,
+      "harga": "20",
+      "warna": "Khaki",
+      "material": "Glass",
+      "deskripsi": "Mv acc board/alight-psgr",
+      "quality": 10
+    }
+  ]
+}
